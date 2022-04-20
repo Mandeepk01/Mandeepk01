@@ -1,4 +1,4 @@
-### Hola 👋
+### Hola, I am Mandeep Kaur 👋
 
 - 🔭 I’m currently working as Tech lead - QE Engineering
 - 🌱 I’m currently learning JS, Devops
