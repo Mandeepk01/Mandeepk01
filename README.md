@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mandeep Kaur</h1>
-<h3 align="center">I'm Tech Lead- QE.</h3>
+<h3 align="center">Tech Lead- QE</h3>
 
 - 🔭 I’m currently working as Tech lead - QE 
 - 🌱 I’m currently learning JS, Devops
@@ -20,7 +20,7 @@
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://www.jenkins.io" target="_blank">  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/46/000000/external-bitbucket-is-a-web-based-version-control-repository-hosting-service-logo-shadow-tal-revivo.png"/> </a> 
+    <a href="https://bitbucket.org/" target="_blank">  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/46/000000/external-bitbucket-is-a-web-based-version-control-repository-hosting-service-logo-shadow-tal-revivo.png"/> </a> 
 </p>
 <p align="center">
     <a href="https://github.com/mandeek01/github-readme-streak-stats">
