@@ -50,4 +50,6 @@
 <a href = "https://www.linkedin.com/in/mandeepk01/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/mandeepk01"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/mandeepkaur_993/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://mandeepk01.medium.com/"><img src="<img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png"/></a>
+    
 </p>
